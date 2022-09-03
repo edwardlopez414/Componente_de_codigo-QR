@@ -10,7 +10,7 @@
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
+
 
 ## Overview
 Desafío completado el cual consistía en la replicación de una de un sitio web que contenía una imagen QR con una breve descripción
@@ -28,14 +28,7 @@ Desafío completado el cual consistía en la replicación de una de un sitio web
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
-
 ### What I learned
 
  Aprendí a utilizar la etiqueta br 
