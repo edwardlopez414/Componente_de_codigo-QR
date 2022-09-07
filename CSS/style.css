@@ -7,7 +7,7 @@ p{
 }
 .container{
     height: 60vh;
-    width: 17%;
+    width: 17vh;
     position: fixed;
     top: 50%;
     left: 50%;
@@ -33,4 +33,22 @@ p{
     font-family: 'Outfit', sans-serif;
     color: rgb(48%, 53%, 62%) ;
     font-weight:400;
+}
+@media screen and (max-width: 852px) {
+    .container{
+        height: 45vh;
+        width: 20%;
+    }
+}
+@media screen and (max-width: 952px) {
+    .container{
+        height: 45vh;
+        width: 20%;
+    }
+}
+@media screen and (max-width: 607px) {
+    .container{
+        height: 47vh;
+        width: 20%;
+    }
 }
