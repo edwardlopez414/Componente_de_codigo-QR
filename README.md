@@ -4,7 +4,6 @@
 - [Overview](#overview)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
@@ -15,13 +14,13 @@
 ## Overview
 Desafío completado el cual consistía en la replicación de una de un sitio web que contenía una imagen QR con una breve descripción
 ### Screenshot
-./FinalImage/QR.PNG
+
+
+![](./FinalImage/QR.PNG)
+
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
-## My process
+- Solution URL: [Add solution URL here](https://edwardlopez414.github.io/Componente_de_codigo-QR/)
 
 ### Built with
 
