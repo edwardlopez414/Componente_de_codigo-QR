@@ -20,7 +20,7 @@ Desafío completado el cual consistía en la replicación de una de un sitio web
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://edwardlopez414.github.io/Componente_de_codigo-QR/)
+- Solution URL: [solution URL here](https://edwardlopez414.github.io/Componente_de_codigo-QR/)
 
 ### Built with
 
